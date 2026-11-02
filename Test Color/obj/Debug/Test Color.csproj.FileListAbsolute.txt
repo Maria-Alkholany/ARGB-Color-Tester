@@ -1,0 +1,10 @@
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\bin\Debug\Test Color.exe.config
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\bin\Debug\Test Color.exe
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\bin\Debug\Test Color.pdb
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test Color.csprojAssemblyReference.cache
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test_Color.Form1.resources
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test_Color.Properties.Resources.resources
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test Color.csproj.GenerateResource.cache
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test Color.csproj.CoreCompileInputs.cache
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test Color.exe
+C:\Users\Elite\Desktop\c#.2\Test Color\Test Color\obj\Debug\Test Color.pdb
